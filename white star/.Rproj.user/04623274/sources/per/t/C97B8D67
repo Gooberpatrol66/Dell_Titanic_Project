@@ -1,0 +1,32 @@
+{
+    "id": "C97B8D67",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602082460526.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "FilingsonEdgar",
+        "caption": "FilingsonEdgar",
+        "totalObservations": 8,
+        "displayedObservations": 8,
+        "variables": 11,
+        "cacheKey": "09C8752D",
+        "object": "FilingsonEdgar",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=FilingsonEdgar&cache_key=09C8752D&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 72057598299340800,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602082460526,
+    "read_only": false,
+    "read_only_alternatives": []
+}

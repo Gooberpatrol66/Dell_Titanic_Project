@@ -1,0 +1,50 @@
+<!--  -->
+Hi, I'm Nathan Dehnel, and this is my portfolio. I have IT experience, and I attended TSTC Waco for Game Design and Programming, and I currently test chips and electronics for Tri-Delta Design. I am currently seeking an entry-level position in programming or information technology.
+
+Fixes for scripts to compile a bootable GNU/HURD image from source. (Bash)
+https://github.com/Gooberpatrol66/cross-hurd
+
+Partial port of GNU/HURD to 64-bit. \(C) 
+https://gentooserver.dehnel.info/gitea/nathan/hurd64.git
+
+Attempt at writing a program to allow democratic unprivileged control of a computer (users vote on commands to run as root). (C, Bash)
+https://gentooserver.dehnel.info/gitea/nathan/dsudo/src/branch/dsudo
+
+dsudo, but done by rewriting sudo's sudoers plugin, in order to reuse functionality. (C, Bash, Lex, YACC/GNU Bison)
+https://gentooserver.dehnel.info/gitea/nathan/dsudo/src/branch/master
+
+Helper programs for use with dsudo. (C, Bash)
+https://gentooserver.dehnel.info/gitea/nathan/dsudo-scripts
+
+Script to recursively backup the filenames in a directory to a git repository. (Bash)
+https://gentooserver.dehnel.info/gitea/nathan/filename-backup
+
+Script to toggle cryptocurrency miners to keep ambient temperature between two set values. (Python, Bash)
+https://gentooserver.dehnel.info/gitea/nathan/thermostat
+
+~2 dozen programs packaged for GNU Guix. (Scheme LISP)
+https://gentooserver.dehnel.info/gitea/nathan/gooby-channel
+
+\>60 programs packaged for Gentoo Linux. (Bash)
+https://gentooserver.dehnel.info/gitea/nathan/gooby-overlay
+
+caffeine.sh, with improvements. (Bash)
+https://gentooserver.dehnel.info/gitea/nathan/taurine
+
+Port of a 10-band parametric equalizer from GTK2 to GTK3, as well as some changes to allow it to in the future use an arbitrary number of bands. (C++)
+https://gentooserver.dehnel.info/gitea/nathan/eqnq.git
+
+Minecraft mod that adds a second inventory, allowing the player to use two hands independently. (Java)
+https://gentooserver.dehnel.info/gitea/nathan/ambidex
+
+Screenshots of an older version of the mod, as well as a mod that adds craftable spawn eggs. (Java)
+https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/mods-discussion/1398647-gooberpatrols-mods
+
+Modification of KDEConnect Android app using OpenCV that turns a phone's camera into a mouse sensor, allowing control of the cursor of a linked PC. (Java, XML)
+https://gentooserver.dehnel.info/gitea/nathan/kdeconnect-opencv
+
+Modification of KDEConnect for remote cursor control, but instead using the phone's accelerometer. (Java, XML)
+https://gentooserver.dehnel.info/gitea/nathan/kdeconnect-accelmouse
+
+School and game design club projects (C, C++, C#, OpenGL, Java, Python)
+https://gentooserver.dehnel.info/gitea/nathan/school-stuff

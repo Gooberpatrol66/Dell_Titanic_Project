@@ -1,0 +1,32 @@
+{
+    "id": "CDB2093D",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602083856206.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "NorwegianAnnualReports",
+        "caption": "NorwegianAnnualReports",
+        "totalObservations": 8,
+        "displayedObservations": 8,
+        "variables": 3,
+        "cacheKey": "76D88EEA",
+        "object": "NorwegianAnnualReports",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=NorwegianAnnualReports&cache_key=76D88EEA&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94125341917344,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602083856206,
+    "read_only": false,
+    "read_only_alternatives": []
+}

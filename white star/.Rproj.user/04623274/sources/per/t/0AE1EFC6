@@ -1,0 +1,32 @@
+{
+    "id": "0AE1EFC6",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602083862987.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "`NorwegianBalanceSheet 6`",
+        "caption": "`NorwegianBalanceSheet 6`",
+        "totalObservations": 61,
+        "displayedObservations": 61,
+        "variables": 5,
+        "cacheKey": "5E62FD22",
+        "object": "NorwegianBalanceSheet 6",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=NorwegianBalanceSheet+6&cache_key=5E62FD22&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94125529323320,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602083862987,
+    "read_only": false,
+    "read_only_alternatives": []
+}
