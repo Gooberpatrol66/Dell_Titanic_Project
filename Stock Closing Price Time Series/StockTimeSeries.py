@@ -14,7 +14,7 @@ data=data.drop(['High'],axis=1)
 data=data.drop(['Low'],axis=1)
 data=data.drop(['Adj Close'],axis=1)
 data=data.drop(['Volume'],axis=1)
-
+print(data)
 data['Date'] = pd.to_datetime(data['Date'])
 data['Date'] = data['Date'].dt.strftime('%d/%m/%Y')
 data['year'] = pd.DatetimeIndex(data['Date']).year
